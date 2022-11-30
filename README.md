@@ -1,10 +1,18 @@
+#this is a DIV brench
+
 # test1
-sldfsd
-sdfjs
-sjf
+
 sfjdfj
+
 jfd
+
 jf
+
+
 jd
 # test2
+<<<<<<< HEAD
 Not Empty
+=======
+EMPTY
+>>>>>>> dev
