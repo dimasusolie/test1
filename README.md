@@ -11,8 +11,5 @@ jf
 
 jd
 # test2
-<<<<<<< HEAD
-Not Empty
-=======
 EMPTY
->>>>>>> dev
+
